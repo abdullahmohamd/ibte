@@ -1,0 +1,17 @@
+C:\c++ projects\log in\log in\bin\Debug\net8.0-windows\log in.exe
+C:\c++ projects\log in\log in\bin\Debug\net8.0-windows\log in.deps.json
+C:\c++ projects\log in\log in\bin\Debug\net8.0-windows\log in.runtimeconfig.json
+C:\c++ projects\log in\log in\bin\Debug\net8.0-windows\log in.dll
+C:\c++ projects\log in\log in\bin\Debug\net8.0-windows\log in.pdb
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log_in.mario.resources
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log_in.Main.resources
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.csproj.GenerateResource.cache
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.GeneratedMSBuildEditorConfig.editorconfig
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.AssemblyInfoInputs.cache
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.AssemblyInfo.cs
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.csproj.CoreCompileInputs.cache
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.dll
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\refint\log in.dll
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.pdb
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\log in.genruntimeconfig.cache
+C:\c++ projects\log in\log in\obj\Debug\net8.0-windows\ref\log in.dll
