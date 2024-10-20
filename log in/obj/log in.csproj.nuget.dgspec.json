@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c++ projects\\log in\\log in\\log in.csproj": {}
+    "C:\\github\\ibte\\log in\\log in.csproj": {}
   },
   "projects": {
-    "C:\\c++ projects\\log in\\log in\\log in.csproj": {
+    "C:\\github\\ibte\\log in\\log in.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c++ projects\\log in\\log in\\log in.csproj",
+        "projectUniqueName": "C:\\github\\ibte\\log in\\log in.csproj",
         "projectName": "log in",
-        "projectPath": "C:\\c++ projects\\log in\\log in\\log in.csproj",
+        "projectPath": "C:\\github\\ibte\\log in\\log in.csproj",
         "packagesPath": "C:\\Users\\abood\\.nuget\\packages\\",
-        "outputPath": "C:\\c++ projects\\log in\\log in\\obj\\",
+        "outputPath": "C:\\github\\ibte\\log in\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
