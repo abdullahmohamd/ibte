@@ -1,0 +1,42 @@
+/*css file*id then under it classes to organize and plan and not confuse*/
+body{
+    font-family: "roboto",sans-serif;
+
+}
+/* div and div and apply the code to it */
+#container-page{
+    padding: 10px;
+    background-color: #919191;
+}
+
+.title{
+    text-decoration: underline;
+}
+/*design inside container*/
+.description{
+    font-size: 25px;
+padding: 20px;
+background: rgb(255, 255, 255);
+border-radius: 10px;
+margin-bottom: 10px;
+}
+.list-container{
+    background: #ffffff;
+    padding: 10px;
+    /*radius to the container*/
+    border-radius: 10px;
+}
+
+.list-item{
+    padding: 15px;
+    border-bottom: 5px solid black;
+    font-size:25px;
+}
+img{
+width: 100%;
+/*hight scrolable vh takes your screen then takes percentage of it */
+height: 100vh;
+/*fit basicly fixed aspect ration in the dimensions given*/
+object-fit:contain;
+margin:10px 0px 10px 0px
+}
